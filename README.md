@@ -1,7 +1,7 @@
 ## NOTICE
 
 This repository contains the public FTC SDK for the CENTERSTAGE (2023-2024) competition season.
-It repository stores all the code from the 2023-2024 FTC season my team, Alphabots #19639, participated in. 
+It stores all the code from the 2023-2024 FTC season my team, Alphabots #19639, participated in. 
 I encourage people to learn from our code and algorithms such as PID, MeepMeep, etc.
 If you have any questions feel free to email me at "parshg14@gmail.com"
 
